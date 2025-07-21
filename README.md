@@ -1,2 +1,2 @@
-# Phython-basic
-Nandini's begginer phython codes
+# Python-basic
+Nandini's begginer python codes
